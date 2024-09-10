@@ -1,0 +1,5 @@
+hrwros/hrwros_support
+/root/workspace/hrwros_ws/devel/.private/hrwros_support/cmake.lock /root/workspace/hrwros_ws/devel/./cmake.lock
+/root/workspace/hrwros_ws/devel/.private/hrwros_support/share/hrwros_support/cmake/hrwros_supportConfig.cmake /root/workspace/hrwros_ws/devel/share/hrwros_support/cmake/hrwros_supportConfig.cmake
+/root/workspace/hrwros_ws/devel/.private/hrwros_support/share/hrwros_support/cmake/hrwros_supportConfig-version.cmake /root/workspace/hrwros_ws/devel/share/hrwros_support/cmake/hrwros_supportConfig-version.cmake
+/root/workspace/hrwros_ws/devel/.private/hrwros_support/lib/pkgconfig/hrwros_support.pc /root/workspace/hrwros_ws/devel/lib/pkgconfig/hrwros_support.pc

@@ -1,0 +1,1 @@
+/root/workspace/hrwros_ws/devel/.private/hrwros_week1_assignment/share/common-lisp/ros/hrwros_week1_assignment/msg/hrwros_week1_assignment-msg.asd

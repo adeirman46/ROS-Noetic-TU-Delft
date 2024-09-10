@@ -1,0 +1,5 @@
+hrwros/hrwros_week2_assignment
+/root/workspace/hrwros_ws/devel/.private/hrwros_week2_assignment/cmake.lock /root/workspace/hrwros_ws/devel/./cmake.lock
+/root/workspace/hrwros_ws/devel/.private/hrwros_week2_assignment/share/hrwros_week2_assignment/cmake/hrwros_week2_assignmentConfig.cmake /root/workspace/hrwros_ws/devel/share/hrwros_week2_assignment/cmake/hrwros_week2_assignmentConfig.cmake
+/root/workspace/hrwros_ws/devel/.private/hrwros_week2_assignment/share/hrwros_week2_assignment/cmake/hrwros_week2_assignmentConfig-version.cmake /root/workspace/hrwros_ws/devel/share/hrwros_week2_assignment/cmake/hrwros_week2_assignmentConfig-version.cmake
+/root/workspace/hrwros_ws/devel/.private/hrwros_week2_assignment/lib/pkgconfig/hrwros_week2_assignment.pc /root/workspace/hrwros_ws/devel/lib/pkgconfig/hrwros_week2_assignment.pc

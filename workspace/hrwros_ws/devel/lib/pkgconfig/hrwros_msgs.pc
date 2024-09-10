@@ -1,0 +1,1 @@
+/root/workspace/hrwros_ws/devel/.private/hrwros_msgs/lib/pkgconfig/hrwros_msgs.pc

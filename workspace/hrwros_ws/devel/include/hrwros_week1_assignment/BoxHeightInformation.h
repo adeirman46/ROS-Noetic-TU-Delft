@@ -1,0 +1,1 @@
+/root/workspace/hrwros_ws/devel/.private/hrwros_week1_assignment/include/hrwros_week1_assignment/BoxHeightInformation.h

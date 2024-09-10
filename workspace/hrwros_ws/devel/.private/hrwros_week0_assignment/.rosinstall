@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/workspace/hrwros_ws/devel/.private/hrwros_week0_assignment/setup.sh
